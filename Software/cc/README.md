@@ -1,1 +1,1 @@
-Code for charge controller and maximum power point tracking (MMPT).
+Code for charge controller and maximum power point tracking (MPPT).
