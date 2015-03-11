@@ -24,8 +24,6 @@
  http://www.arduino.cc/en/Tutorial/LiquidCrystal
  */
 
- //random comment
-
 #include <LiquidCrystal.h>
 #include <EEPROM.h>
 //#include <PinChangeInt.h>
